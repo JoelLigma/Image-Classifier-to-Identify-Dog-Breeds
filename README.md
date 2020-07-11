@@ -24,6 +24,6 @@ Classifying Labels as "Dogs" or "Not Dogs"
 
 Calculate the Results
 - Use Labels and their classifications to determine how well the algorithm worked on classifying images
-Print the Results
 
+Print the Results
 - You will need to repeat these tasks for each of the three image classification algorithms that are provided to you.
