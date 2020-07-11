@@ -27,3 +27,8 @@ Calculate the Results
 
 Print the Results
 - You will need to repeat these tasks for each of the three image classification algorithms that are provided to you.
+
+
+**Note**
+
+Potential future change: Use os.path.splitext(). in order for my code to generalize image labels better. Plan is to remove .jpg endings.
